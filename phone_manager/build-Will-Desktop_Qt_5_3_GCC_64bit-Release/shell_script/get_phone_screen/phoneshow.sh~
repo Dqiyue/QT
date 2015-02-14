@@ -1,0 +1,8 @@
+#!/bin/bash
+adb shell screencap -p | sed 's/\r$//'
+if [ $? -eq 0 ]
+then
+	adb shell screencap -p | sed 's/\r$//' >./screen_img/currentscreen/currentscreen.png
+else
+	echo 1
+fi

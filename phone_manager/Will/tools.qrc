@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/picture/tools">
+        <file alias="one">one.png</file>
+        <file alias="two">two.png</file>
+        <file alias="three">three.png</file>
+        <file alias="four">four.png</file>
+        <file alias="contacts">contact.gif</file>
+        <file alias="phonepicture">phonepicture.gif</file>
+        <file alias="phoneapp">phoneapp.gif</file>
+        <file alias="phonemusic">phoneplus.gif</file>
+        <file alias="home1">home1.gif</file>
+        <file alias="home2">home2.gif</file>
+        <file alias="message">message.gif</file>
+    </qresource>
+    <qresource prefix="/picture/home_button">
+        <file alias="help">help.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>game/天下HD.png</file>
+        <file>game/刀塔传奇.png</file>
+        <file>game/迷你西游.png</file>
+        <file>game/去吧皮卡丘.png</file>
+        <file>game/水果忍者.png</file>
+    </qresource>
+</RCC>

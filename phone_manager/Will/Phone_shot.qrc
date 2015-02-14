@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/picture/phone_pic">
+        <file alias="default">default.gif</file>
+        <file>phone_battery.png</file>
+        <file>phone_rom.png</file>
+        <file>sdcard_rom.png</file>
+    </qresource>
+</RCC>

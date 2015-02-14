@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/picture/phone_screen">
+        <file>Coolpad.png</file>
+        <file>default.png</file>
+        <file>三星 i8190Galaxy S3 Mini.jpg</file>
+        <file>华为 荣耀Honor.jpg</file>
+    </qresource>
+</RCC>

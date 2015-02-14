@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/picture/menuButton">
+        <file alias="turnpage">turnpage.png</file>
+    </qresource>
+</RCC>

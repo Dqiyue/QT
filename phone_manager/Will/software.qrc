@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>software/点心省电.png</file>
+        <file>software/手机百度.png</file>
+        <file>software/淘宝.png</file>
+        <file>software/腾讯视频.png</file>
+        <file>software/优酷.png</file>
+    </qresource>
+</RCC>

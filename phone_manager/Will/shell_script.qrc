@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/shell_script/screen_shot">
+        <file alias="screen_shot">screen_shot.sh</file>
+    </qresource>
+    <qresource prefix="/shell_script/get_phone_screen">
+        <file alias="get_phone_screen">get_phone_screen.sh</file>
+    </qresource>
+    <qresource prefix="/shell_script/get_phone_info">
+        <file>get_phone_info.sh</file>
+    </qresource>
+</RCC>

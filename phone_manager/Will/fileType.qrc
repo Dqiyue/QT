@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/picture/fileType">
+        <file alias="txt">txt.gif</file>
+        <file alias="picture">picture.gif</file>
+        <file alias="mp3">mp3.gif</file>
+        <file alias="file">file.gif</file>
+        <file alias="exe">exe.gif</file>
+        <file alias="doc">doc.gif</file>
+        <file alias="dir">dir.gif</file>
+        <file alias="config">config.gif</file>
+        <file alias="link">link.gif</file>
+    </qresource>
+</RCC>

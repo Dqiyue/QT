@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="/screen_shot"/>
+    <qresource prefix="/get_screen"/>
+</RCC>

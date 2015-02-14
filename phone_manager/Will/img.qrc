@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pro.png</file>
+        <file>pro.ico</file>
+    </qresource>
+    <qresource prefix="/picture/phone_picture">
+        <file>no_picture.jpg</file>
+        <file>left.png</file>
+        <file>loadmore.png</file>
+        <file>right.png</file>
+        <file>spin.png</file>
+        <file>default.png</file>
+    </qresource>
+</RCC>

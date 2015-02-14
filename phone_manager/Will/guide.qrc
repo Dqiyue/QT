@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/picture/guide">
+        <file>welcome.gif</file>
+        <file>step1.jpg</file>
+        <file>step2.jpg</file>
+        <file>step3.jpg</file>
+        <file>step4.jpg</file>
+        <file>close.png</file>
+    </qresource>
+</RCC>

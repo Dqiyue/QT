@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/picture/player">
+        <file alias="next">next.gif</file>
+        <file alias="pause">pause.gif</file>
+        <file alias="play">play.gif</file>
+        <file alias="pre">pre.gif</file>
+        <file alias="mode_one">play_mode1.gif</file>
+        <file alias="mode_two">play_mode2.gif</file>
+        <file alias="mode_three">play_mode3.gif</file>
+        <file alias="volume_empty">volume_empty.gif</file>
+        <file alias="volume_high">volume_high.gif</file>
+        <file alias="volume_low">volume_low.gif</file>
+        <file alias="volume_medium">volume_medium.gif</file>
+        <file alias="volume_muted">volume_muted.gif</file>
+        <file alias="delete">delete.gif</file>
+        <file alias="out">out.gif</file>
+        <file alias="delete2">delete2.gif</file>
+        <file alias="delete3">delete3.gif</file>
+        <file alias="delete4">delete4.gif</file>
+        <file alias="out2">out2.gif</file>
+        <file alias="out3">out3.gif</file>
+    </qresource>
+</RCC>

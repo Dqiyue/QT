@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/picture/button_pic">
+        <file alias="close">close.png</file>
+        <file alias="min">min.png</file>
+        <file>start1.gif</file>
+        <file>start2.gif</file>
+        <file>start3.jpeg</file>
+        <file alias="start">start4.png</file>
+        <file alias="skin">skin.png</file>
+        <file>max.png</file>
+    </qresource>
+</RCC>
